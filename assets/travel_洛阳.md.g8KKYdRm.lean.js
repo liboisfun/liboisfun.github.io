@@ -1,0 +1,1 @@
+import{_ as t,c as a,j as r,o}from"./chunks/framework.D5XSuxOt.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"travel/洛阳.md","filePath":"travel/洛阳.md"}'),s={name:"travel/洛阳.md"};function n(l,e,c,p,d,_){return o(),a("div",null,e[0]||(e[0]=[r("p",null,"##洛阳",-1)]))}const f=t(s,[["render",n]]);export{m as __pageData,f as default};
